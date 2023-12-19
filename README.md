@@ -7,6 +7,7 @@ AIM
 To Design a book cover page using HTML and CSS.
 
 DESIGN PROCEDURE
+
 Step 1:
 Create a html file .
 
@@ -141,7 +142,8 @@ CODE
 </html>
 ```
 OUTPUT
-![Alt text](<Screenshot 2023-12-19 203059.png>)
+
+![Screenshot 2023-12-19 203059](https://github.com/Mythili7339267708/Ex-06-Book-Cover-Design/assets/144260246/bfb5cb0a-a495-4a8f-9ef8-31f5c71dc755)
 
 
 
